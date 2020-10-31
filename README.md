@@ -7,6 +7,6 @@ Notebook ModelMaking.ipynb is a notebook for validating and tuning selected mode
 <br>
 <h4>These notebooks were created on my week laptop. If you want to look at the better solution look for it in folder google_colab.</h4>
 IMDB_EDA.ipynb is a notebook for analysis of dataset<br>
-IMDB_experiments.ipynb is a notebook for experiments with BOW-like models<br>
+IMDB_Experiments.ipynb is a notebook for experiments with BOW-like models<br>
 IMDB_SequencesModelExperiments.ipynb is a notebook for experiments with Sequence-like models
 
