@@ -8,5 +8,6 @@ Notebook ModelMaking.ipynb is a notebook for validating and tuning selected mode
 <h4>These notebooks were created on my week laptop. If you want to look at another solution look for it in folder google_colab.</h4>
 IMDB_EDA.ipynb is a notebook for analysis of dataset<br>
 IMDB_Experiments.ipynb is a notebook for experiments with BOW-like models<br>
-IMDB_SequencesModelExperiments.ipynb is a notebook for experiments with Sequence-like models
+IMDB_SequencesModelExperiments.ipynb is a notebook for experiments with Sequence-like models<br>
+Lime.ipynb is a notebook for analyzing how the model makes predictions. What underlies her predictions for different input data. Lime is a module that shows how model interprets the data.
 
